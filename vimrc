@@ -6,6 +6,9 @@ set nocompatible
 syntax enable
 filetype plugin on
 
+colorscheme gruvbox
+set background=dark
+
 set number
 
 set tabstop=2
