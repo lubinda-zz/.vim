@@ -23,4 +23,6 @@ set showcmd
 
 set path+=**
 
+set tags+=.tags
+
 set wildmenu
